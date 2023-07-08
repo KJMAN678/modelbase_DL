@@ -1,0 +1,15 @@
+name = "MyProject"
+uuid = "8f1d48ab-cebb-42a1-a6d9-49adf5d9e44f"
+authors = ["KJMAN678 <kj.fireman5@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SCS = "c946c3f1-0d1f-5ce8-9dea-7daa1f7e2d13"
+Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
