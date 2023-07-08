@@ -1,7 +1,7 @@
 ## モデルベース深層学習と深層展開」
 
-出版社 URL: https://www.morikita.co.jp/books/mid/085731
-GitHub URL: https://github.com/wadayama/DU-Book/tree/main
+書籍 URL: https://www.morikita.co.jp/books/mid/085731  
+公式 GitHub URL: https://github.com/wadayama/DU-Book/tree/main
 
 - Julia version 1.8.2
 - Flux version 0.13.6
@@ -39,12 +39,6 @@ jupyterlab()
 
 ![手順1](images/1.png)
 ![手順2](images/2.png)
-
-和田山正 wadayama@nitech.ac.jp
-
-Copyright (c) 2022 Tadashi Wadayama  
-Released under the MIT license  
-https://opensource.org/licenses/mit-license.php
 
 - Julia のインストール(M1 Mac)および jupyter lab の起動
   - [（備忘録）M1 Mac に Julia をインストールし、Jupyter で起動する方法](https://qiita.com/shyu_manabe/items/3978c1ef5d96d4e9dcef)
